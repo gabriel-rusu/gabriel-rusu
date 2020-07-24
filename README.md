@@ -14,5 +14,5 @@
 
 ### I am Gabriel Rusu
 - A Software Engineear & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
+- A Systems Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Operating Systems.
