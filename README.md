@@ -10,7 +10,7 @@
   <img align="left" alt="Gabi's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" width="175px" src="./coding.gif" />
+<img align="right" alt="GIF" width="200px" src="./coding.gif" />
 
 ### I am Gabriel Rusu
 - A Software Engineear & Open Source enthusiast.
