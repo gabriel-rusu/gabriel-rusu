@@ -1,18 +1,8 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabriel-rusu%2Fhit-counter&count_bg=%230ADBC1&title_bg=%2316E7CD&icon=github.svg&icon_color=%23090909&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://www.linkedin.com/in/grusu13/">
-  <img align="left" alt="Gabi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/RusuGabriel">
-  <img align="left" alt="Gabi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/Gabriel_Rusu">
-  <img align="left" alt="Gabi's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br />
-<img align="right" alt="GIF" width="170px" height="170px" src="https://github.com/RusuGabriel/RusuGabriel/blob/master/website.png" />
+### I am Gabriel Rusu 
 
-### I am Gabriel Rusu
 - A Software Engineer & Open Source enthusiast.
 - A Systems Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Operating Systems.
