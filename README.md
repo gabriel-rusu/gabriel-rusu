@@ -1,7 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Gabriel Rusu 
 
 - A Software Engineer & Open Source enthusiast.
-- A Systems Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Operating Systems.
 
 <!-- <p align="center">
