@@ -1,13 +1,78 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Gabriel Rusu 
+<style>
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
 
-- A Software Engineer & Open Source enthusiast.
-- Currently working on some of my cool side projects based on Web Development and Operating Systems.
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabriel-rusu&show_icons=true&theme=radical&count_private=true">
+body {
+  display: flex;
+  /* background: #000; */
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
 
-  
-   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-rusu&theme=radical" />
-   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rusu&count_private=true&theme=radical&langs_count=5&layout=compact">
-</p> -->
+.content {
+  position: relative;
+}
 
+.content h2 {
+  color: #fff;
+  font-size: 8em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.content h2:nth-child(1) {
+  color: transparent;
+  -webkit-text-stroke: 2px #03a9f4;
+}
+
+.content h2:nth-child(2) {
+  color: #03a9f4;
+  animation: animate 4s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      0% 45%,
+      16% 44%,
+      33% 50%,
+      54% 60%,
+      70% 61%,
+      84% 59%,
+      100% 52%,
+      100% 100%,
+      0% 100%
+    );
+  }
+
+  50% {
+    clip-path: polygon(
+      0% 60%,
+      15% 65%,
+      34% 66%,
+      51% 62%,
+      67% 50%,
+      84% 45%,
+      100% 46%,
+      100% 100%,
+      0% 100%
+    );
+  }
+}
+</style>
+
+
+<section>
+	<div class="content">
+		<h2>Hello!</h2>
+		<h2>Hello!</h2>
+	</div>
+</section>
