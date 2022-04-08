@@ -1,6 +1,7 @@
-<img src='resources/computer.gif'>
+<img align="right" src='resources/computer.gif'>
 
-## Hi, I'm Gabi:
-- Fullstack Software Engineer
-- Open Source Enthusiast
-
+<h1> Hi, I'm Gabi:</h1>
+<uL>
+  <li>a Fullstack Software Engineer</li>
+  <li>an Open Source Enthusiast</li>
+</ul>
