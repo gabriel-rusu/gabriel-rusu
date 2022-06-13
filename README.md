@@ -1,4 +1,4 @@
-<img align="right" src='resources/computer.gif'>
+<img align="right" src='assets/computer.gif'>
 
 <h1> Hi, I'm Gabi:</h1>
 <ul>
