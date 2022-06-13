@@ -11,3 +11,10 @@
   <li>some cool web projects</li>
   <li>building scalable systems</li>
 </ul>
+
+<!-- <h2>I'm interested in:</h2>
+<ul>
+  <li>scalable systems</li>
+  <li>web development</li>
+  <li>artificial intelligence</li>
+</ul> -->
